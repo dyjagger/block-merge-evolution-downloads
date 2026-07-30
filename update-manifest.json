@@ -1,7 +1,7 @@
 {
-  "apk_sha256": "49f71a261b830075a241615232c3f3556b5ca8e948836d53ead9ba8392e2e14b",
-  "apk_size_bytes": 60190013,
+  "apk_sha256": "276257ec8901b46ebf706bd5e0bbadeffa5aa3ff2c55bd081ef3cdd708fadb9f",
+  "apk_size_bytes": 60194109,
   "download_url": "https://github.com/dyjagger/block-merge-evolution-downloads/releases/latest/download/block-merge-evolution-debug.apk",
-  "version_code": 36,
-  "version_name": "0.1.35-dev"
+  "version_code": 37,
+  "version_name": "0.1.36-dev"
 }
